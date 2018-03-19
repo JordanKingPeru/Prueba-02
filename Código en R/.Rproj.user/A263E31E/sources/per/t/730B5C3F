@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1521399939695.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1641726129",
+    "id" : "730B5C3F",
+    "lastKnownWriteTime" : 1521419733,
+    "last_content_update" : 1521419733325,
+    "path" : "~/GitHub/01TextMining/Código en R/Código R TextMining.R",
+    "project_path" : "Código R TextMining.R",
+    "properties" : {
+        "cursorPosition" : "6,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
